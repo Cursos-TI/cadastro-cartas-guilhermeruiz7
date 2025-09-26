@@ -33,7 +33,7 @@ int main() {
     scanf("%d", &pontos1);
 
     printf("===== Cadastro da Carta 2 =====\n");
-    printf("Digite a letra do estado (A a H): ");
+    printf("Digite a letra do estado (A a Z): ");
     scanf(" %c", &estado2);
 
     printf("Digite o código da carta (ex: A02): ");
